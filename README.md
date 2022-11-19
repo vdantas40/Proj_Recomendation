@@ -1,2 +1,2 @@
-# Proj_Recomendation
-Algoritmo de recomendação e aumento nas chances de recorrência
+# Modelo_de_Recomendation
+Algoritmo de recomendação para aumento nas chances de recorrência.
